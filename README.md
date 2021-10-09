@@ -1,3 +1,3 @@
-# Purge Bucket V0.1
+# Purge Slide V0
  
-Purge bucket para una Voron V0 o V0.1
+Purge slide para una Voron 0
